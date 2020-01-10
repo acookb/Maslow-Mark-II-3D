@@ -1,7 +1,4 @@
-Edit this file to add a bill of materials
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+Steel tubes - 10 pieces of 3m each 40mmx40mmx2mmm - around $120US
+Carpentry Angles - 16 pieces - $25US
+Ball Bearings - 22x8 - 16 pieces - $29US
+Self taping screws - ~200 - $20US
